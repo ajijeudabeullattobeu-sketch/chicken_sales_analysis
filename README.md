@@ -33,7 +33,6 @@ Business Questions
 2. How does the number of orders differ between weekdays and weekends?
 3. Is there a statistically significant difference in the average number of orders between weekdays and weekends?
 4. Is there a statistically significant difference in Average Order Value (AOV) between weekdays and weekends?
-5. How strongly are the number of orders and revenue correlated?
 
 Key Analysis & Findings
 
