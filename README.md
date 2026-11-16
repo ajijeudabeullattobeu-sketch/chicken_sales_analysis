@@ -1,4 +1,4 @@
-# chicken_sales_analysis
+# food service sales analysis 
 End-to-end sales analysis project using SQL, Excel, and Power BI
 
 Chicken Sales Analysis
