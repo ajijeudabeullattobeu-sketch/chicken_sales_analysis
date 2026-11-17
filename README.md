@@ -83,9 +83,6 @@ Result:
 
 The null hypothesis was not rejected. There was insufficient statistical evidence to conclude that average order value differs between weekdays and weekends.
 
-4. Correlation Analysis
-
-The correlation coefficient between the number of orders and revenue was approximately 0.97, indicating a strong positive linear relationship.
 
 Business Recommendations
 
